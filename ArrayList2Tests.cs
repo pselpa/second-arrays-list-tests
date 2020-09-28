@@ -142,9 +142,5 @@ namespace second_arrays_list_tests
             // Deve / Asserções
             Assert.Equal(expectedValue, returnedValue);
         }
-
-
-        [Theory]
-
     }
 }
