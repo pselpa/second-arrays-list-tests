@@ -1,6 +1,8 @@
 using Xunit;
+using Domain;
 
-namespace second_arrays_list_tests
+namespace Tests
+
 {
     public class ArrayList2Tests
     {

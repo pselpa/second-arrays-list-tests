@@ -1,8 +1,8 @@
 using System;
 
-namespace second_arrays_list_tests
+namespace Domain
 {
-    class ArrayList2
+    public class ArrayList2
     {
         public (int[], int[]) Exercise1(int[] arrayA, int[] arrayB)
         {
